@@ -2,10 +2,10 @@
   "name": "long-reach",
   "version": "0.0.8",
   "title": "Long Reach",
-  "author": "James Aguilar",
-  "contact": "aguilar.james@gmail.com",
-  "homepage": "http://github.com/jaguilar",
+  "author": "James Aguilar and Thomas Abeel",
+  "contact": "col.blinky@gmail.com",
+  "homepage": "https://github.com/ColBlinky/long-reach",
   "description": "You can reach anything you can see. You can build anywhere you can see.",
-  "factorio_version":"0.15",
+  "factorio_version":"0.16",
   "dependencies": ["base >= 0.13.0"]
 }

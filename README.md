@@ -5,10 +5,7 @@ value.
 
 ## Status
 
-I am not maintaining this mod any more. If someone wants to fork and maintain
-the mod, I'm happy to update this readme page to point to such a fork.
-Please make a few commits first so I can know that you're serious, though.
-;)
+This is a fork of  https://github.com/jaguilar/long-reach
 
 ## Rationale
 
