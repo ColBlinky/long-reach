@@ -24,12 +24,5 @@ You can change the reach distances in the mod settings page. By default, you
 can reach just about the maximally zoomed out viewport. You can change it to allow
 reaching much further (e.g. edit remote bases in zoomed-in map view).
 
-## Caveats
-
-Why `data-final-fixes.lua`? I don't know. data.lua didn't work. Maybe some other
-mod was overriding the player prototype. This mod tries to take precedence
-over all other mods that affect the reach distance. If you don't want that, this
-mod is not for you.
-
 # How to install
 Instructions are here: https://wiki.factorio.com/index.php?title=Installing_Mods
